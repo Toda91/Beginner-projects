@@ -1,4 +1,4 @@
-  <script>
+
         var first = prompt("Enter first name");
         var first = prompt("Enter second name");
         var firstNumber = prompt("Please type any number");
@@ -21,4 +21,4 @@
             e.preventDefault();
         });
 
-    </script>
+
